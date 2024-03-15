@@ -1,4 +1,10 @@
 # PROMPTER--GETING SATARTED
-PROMPTER Is A Open Source Basic Teleprompter Made In Python                                                                                
+PROMPTER Is A Open Source Basic Teleprompter Made In C++                                                                              
 --User Instructions--                                                                                                                                    
-To Begin In A Python 3 IDE Or In Python 3 Without An IDE Open The PROMPTER Live Teleprompter .ZIP File And Extract It Using A Software Such As 7zip And Open The .Py File There You Will Find Cuntinueation Of The Instructions You Are Reading Know, If You Are Having Any Trouble Please Report The Bug And Refer To The Readme File
+01-Place Your Device In Your Desired Location That Is Optimized For Viewing                                                                                                                              
+                                                                                                                                                                         
+02-Download The Current Prompter File
+
+03-Fill Out The script.txt FILE 
+
+04-Start The Program
