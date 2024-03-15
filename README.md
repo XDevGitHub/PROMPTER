@@ -1,4 +1,4 @@
-# PROMPTER--GETING SATARTED
+# PROMPTER:Geting Started
 PROMPTER Is A Open Source Basic Teleprompter Made In C++                                                                              
 --User Instructions--                                                                                                                                    
 01-Place Your Device In Your Desired Location That Is Optimized For Viewing                                                                                                                              
